@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body>
+    <header class="text-gray-600 body-font border-b">
+      <div
+        class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+        <a
+          href="{% url 'link-list' %}"
+          class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+          <span class="ml-3 text-xl">🌱 LinkPlant</span>
+        </a>
+        <nav
+          class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
+          <a href="{% url 'link-list' %}" class="mr-5 hover:text-gray-900"
+            >My Links</a
+          >
+        </nav>
+        <a href="{% url 'link-create' %}">
+          <button
+            class="inline-flex items-center bg-green-200 border-0 py-2 px-6 focus:outline-none hover:bg-green-300 rounded text-base mt-4 md:mt-0">
+            Add Link
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              class="h-5 w-5"
+              fill="none"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              stroke-width="2">
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+            </svg>
+          </button>
+        </a>
+      </div>
+    </header>
+    <div class="container mx-auto">
+      <div class="sm:w-3/4 mx-auto sm:p-10">
+        {% block content %} {% endblock content %}
+      </div>
+    </div>
+  </body>
+</html>
