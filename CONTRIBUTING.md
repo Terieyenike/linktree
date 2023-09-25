@@ -171,8 +171,7 @@ and worthy contributions that you can make without coding:
 - Fixing a typo in the [documentation](https://github.com/Terieyenike/linktree/blob/main/README.md) (see the
   documentation contribution section)
 - Providing your feedback on the proposed features and designs
-- Reviewing Pull Requests If you wish to contribute code (features or bug fixes), see
-  the [Submitting a patch](#submitting-a-patch) section.
+- Reviewing Pull Requests If you wish to contribute code (features or bug fixes)
 
 [Back to TOC](#table-of-contents)
 
