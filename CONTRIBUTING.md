@@ -148,8 +148,7 @@ would be grateful to hear about it! Please make sure that you respect the GitHub
 2. A list of steps to help reproduce the issue
 3. The configuration or the parts that are relevant to your issue
 
-If you wish, you are more than welcome to propose a patch to fix the issue! See
-the [Submit a patch](#submitting-a-patch) section for more information on how to best do so.
+If you wish, you are more than welcome to propose a patch to fix the issue!
 
 [Back to TOC](#table-of-contents)
 
