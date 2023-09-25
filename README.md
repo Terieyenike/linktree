@@ -1,4 +1,4 @@
-# LinkTree
+# LinkPlant
 A link-in-bio tool like Linktree that allows you to create a webpage that has all your links in one place.
 
 You'll be able to create, edit, and delete links and create a landing page that displays all your links to share with the world!
