@@ -141,7 +141,7 @@ product, contact me on [Twitter](https://twitter.com/terieyenike)
 
 ## Where to report bugs?
 
-Feel free to [submit an issue](https://github.com/Terieyenike/nuxt-blog/issues/new/choose) on the GitHub repository, we
+Feel free to [submit an issue](https://github.com/Terieyenike/linktree/issues/new/choose) on the GitHub repository, we
 would be grateful to hear about it! Please make sure that you respect the GitHub issue template, and include:
 
 1. A summary of the issue
@@ -155,11 +155,10 @@ the [Submit a patch](#submitting-a-patch) section for more information on how to
 
 ## Where to submit feature requests?
 
-You can [submit an issue](https://github.com/Terieyenike/nuxt-blog/issues/new/choose) for feature requests. Please make
+You can [submit an issue](https://github.com/Terieyenike/linktree/issues/new/choose) for feature requests. Please make
 sure to add as much detail as you can when doing so.
 
-You are also welcome to propose patches adding new features. See the section
-on [Submitting a patch](#submitting-a-patch) for details.
+You are also welcome to propose patches adding new features.
 
 [Back to TOC](#table-of-contents)
 
@@ -170,7 +169,7 @@ and worthy contributions that you can make without coding:
 
 - Reporting a bug (see the [report bugs](#where-to-report-bugs) section)
 - Fixing a typo in the code
-- Fixing a typo in the [documentation](https://github.com/Terieyenike/nuxt-blog/blob/main/README.md) (see the
+- Fixing a typo in the [documentation](https://github.com/Terieyenike/linktree/blob/main/README.md) (see the
   documentation contribution section)
 - Providing your feedback on the proposed features and designs
 - Reviewing Pull Requests If you wish to contribute code (features or bug fixes), see
@@ -180,10 +179,10 @@ and worthy contributions that you can make without coding:
 
 ## Improving the documentation
 
-The [documentation](https://github.com/Terieyenike/nuxt-blog/blob/main/README.md) is open-source and built with Nuxt.
+The [documentation](https://github.com/Terieyenike/linktree/blob/main/README.md) is open-source and built with Nuxt.
 You are very welcome to propose changes to it (correct typos, add examples or clarifications...) and contribute to the
 Blog for Programming Nomads
 
-The repository is also hosted on GitHub at: https://github.com/Terieyenike/nuxt-blog
+The repository is also hosted on GitHub at: https://github.com/Terieyenike/linktree
 
 [Back to TOC](#table-of-contents)
