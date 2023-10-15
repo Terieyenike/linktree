@@ -177,9 +177,8 @@ and worthy contributions that you can make without coding:
 
 ## Improving the documentation
 
-The [documentation](https://github.com/Terieyenike/linktree/blob/main/README.md) is open-source and built with Nuxt.
-You are very welcome to propose changes to it (correct typos, add examples or clarifications...) and contribute to the
-Blog for Programming Nomads
+The [documentation](https://github.com/Terieyenike/linktree/blob/main/README.md) is open-source and built with Django.
+You are very welcome to propose changes to it (correct typos, add examples or clarifications...) and contribute to LinkPlant.
 
 The repository is also hosted on GitHub at: https://github.com/Terieyenike/linktree
 
