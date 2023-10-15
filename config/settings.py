@@ -92,8 +92,8 @@ DATABASES = {
     }
 }
 
-database = os.environ["DATABASE_URL"]
-DATABASES["default"] = dj_database_url.parse(f"{database}")
+# database = os.environ["DATABASE_URL"]
+# DATABASES["default"] = dj_database_url.parse(f"{database}")
 
 
 # Password validation
