@@ -58,6 +58,11 @@ Clone a repository means copying the remote repository into your local machine.
    ```bash
    cd linktree
    ```
+3. Install project requirements
+
+  ```
+  pip install -r requirements.txt
+  ```
 
 Remember that you always want to work on and push your changes into the forked repository, not the original one.
 

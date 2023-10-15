@@ -28,7 +28,7 @@ This app run on Django 3.2.20
 After cloning this repo, run the command below to install the dependencies:
 
 ```zsh
-pip -r install requirements.txt
+pip install -r requirements.txt
 ```
 
 Contribute to the page if you need to by cloning this project, raise an issue, or submit a PR.
